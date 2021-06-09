@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sixth files revert
+=======
+sixth files
+>>>>>>> parent of 25360cb (revert1)

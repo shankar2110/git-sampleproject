@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fifth file revert
+=======
+fifth file
+>>>>>>> parent of 25360cb (revert1)
